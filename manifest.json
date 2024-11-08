@@ -1,13 +1,14 @@
 {
-  "name": "o'kitchen",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "short_name": "o'kitchen",
-  "id": "ckru12244",
-  "start_url":"https://ckru12244.github.io/o-kitchen",
-  "scope":"/",
-  "description": "o'kitchen 모바일 사이트 입니다.",
-  "icons": [
+	"background_color": "#ffffff",
+	"dir": "ltr",
+	"display": "standalone",
+	"name": "O'Kicten",
+	"orientation": "portrait",
+	"scope": "/",
+	"short_name": "오‘키친",
+	"start_url": "https://ckru12244.github.io/o-kitchen",
+	"theme_color": "#ffffff",
+	"icons": [
     {
       "src": "Applmages/windows11/SmallTile.scale-100.png",
       "sizes": "71x71"
@@ -456,5 +457,8 @@
       "src": "Applmages/ios/1024.png",
       "sizes": "1024x1024"
     }
-  ]
+  ],
+  "id": "ckru12244",
+  "description": "쉽고 간편하게 따라할 수 있는 맛있는 요리가 한가득! 오뚜기의 레시피 앱 오'키친에 놀러오세요.",
+  "lang": "ko"
 }
